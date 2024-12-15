@@ -8,7 +8,7 @@
 
 ---
 
-Aspiring **Front-End Web Developer** passionate about creating interactive, user-friendly, and dynamic web experiences. Skilled in crafting responsive designs and exploring modern web technologies. I also have a creative side, using **DaVinci Resolve** and **Adobe After Effects** to create stunning edits and motion graphics.  
+Aspiring **Front-End Web Developer** passionate about creating interactive, user-friendly, and dynamic web experiences. Skilled in crafting responsive designs and exploring modern web technologies. I also have a creative side, using DaVinci Resolve to create stunning edits and motion graphics.  
 
 ---
 
@@ -21,10 +21,12 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend and AI**
+#### **AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+#### **Backend (learning)** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -42,13 +44,6 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 #### **WeatherWise** 🌦️
 **Description**: An Android app that retrieves real-time weather data such as temperature, humidity, and wind speed for any city. Built using **Java**, **Android Studio**, and the **OpenWeatherMap API**.  
 [Check it out here!](https://github.com/your-repo-link)
-
----
-
-### ✨ **Fun Fact**
-
-I create **anime and motion graphic edits**! Inspired by creators like Xenoz, I use **DaVinci Resolve** and **Adobe After Effects** to bring my creative visions to life.  
-Check out some of my works: [Link to Your Portfolio or Instagram]
 
 ---
 
