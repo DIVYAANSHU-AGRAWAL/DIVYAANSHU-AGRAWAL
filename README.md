@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Coding Animation" width="300" height="150">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Professional Animation" width="300" height="150">
 </div>
 
 ---
@@ -25,6 +25,8 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -50,16 +52,6 @@ Check out some of my works: [Link to Your Portfolio or Instagram]
 
 ---
 
-### 📈 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIVYAANSHU-AGRAWAL&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYAANSHU-AGRAWAL&theme=radical" alt="GitHub Streak Stats">
-</div>
-
----
-
 ### 🔗 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyaanshu-agrawal/)
@@ -68,6 +60,5 @@ Check out some of my works: [Link to Your Portfolio or Instagram]
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Thanks Animation" width="200" height="150">
   <h4>Thank you for visiting! 🚀</h4>
 </div>
