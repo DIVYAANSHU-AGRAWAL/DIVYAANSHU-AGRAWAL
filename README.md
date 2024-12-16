@@ -26,7 +26,6 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### **Image Processing**
 ![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
@@ -52,7 +51,10 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 
 #### **WeatherWise** 🌦️
 **Description**: An Android app that retrieves real-time weather data such as temperature, humidity, and wind speed for any city. Built using **Java**, **Android Studio**, and the **OpenWeatherMap API**.  
-[Check it out here!](https://github.com/your-repo-link)
+[Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
+#### **Image Manipulation Software** 🖼️
+**Description**: A Python-based image manipulation tool built using **Pillow** and **Tkinter**. It allows users to apply various filters, adjust brightness, contrast, and crop images with a simple GUI interface.  
+[Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
 
 ---
 
