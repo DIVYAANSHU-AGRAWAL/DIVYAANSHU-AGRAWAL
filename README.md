@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm **Divyaanshu Agrawal**  
+# Hi there! 👋 I'm **Divyaanshu Agrawal**  
 
 ---
 
@@ -28,6 +28,12 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+#### **Image Processing**
+![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### **GUI Development**
+![Tkinter](https://img.shields.io/badge/Tkinter-5C3EE8?style=for-the-badge&logo=tkinter&logoColor=white)
 
 #### **Backend (learning)** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
