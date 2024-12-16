@@ -52,7 +52,7 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 #### **WeatherWise** 🌦️
 **Description**: An Android app that retrieves real-time weather data such as temperature, humidity, and wind speed for any city. Built using **Java**, **Android Studio**, and the **OpenWeatherMap API**.  
 [Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
-#### **Image Manipulation Software** 🖼️
+#### **PixCraft** 🖼️
 **Description**: A Python-based image manipulation tool built using **Pillow** and **Tkinter**. It allows users to apply various filters, adjust brightness, contrast, and crop images with a simple GUI interface.  
 [Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
 
