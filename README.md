@@ -34,10 +34,6 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 #### **GUI Development**
 ![Tkinter](https://img.shields.io/badge/Tkinter-5C3EE8?style=for-the-badge&logo=tkinter&logoColor=white)
 
-#### **Backend (learning)** 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 #### **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -49,9 +45,17 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 
 ### 🌟 **Projects**
 
+#### **Handwritten Word Recognition AI** ✍️🤖  
+**Description:**  
+An integrated deep learning pipeline combining image and text features to recognize handwritten words from images. Uses a pretrained ResNet50 for image feature extraction and a Bidirectional LSTM for textual context modeling. Includes an image segmentation module to extract individual words from handwritten prescription images.  
+Built with **Python**, **TensorFlow**, **OpenCV**, and deep learning techniques.  
+The model trains on the IAM Handwriting Dataset and predicts text from segmented word images with high accuracy.  
+[Explore the repo here!](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
+
 #### **WeatherWise** 🌦️
 **Description**: An Android app that retrieves real-time weather data such as temperature, humidity, and wind speed for any city. Built using **Java**, **Android Studio**, and the **OpenWeatherMap API**.  
 [Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
+
 #### **PixCraft** 🖼️
 **Description**: A Python-based image manipulation tool built using **Pillow** and **Tkinter**. It allows users to apply various filters, adjust brightness, contrast, and crop images with a simple GUI interface.  
 [Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
