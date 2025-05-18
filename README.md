@@ -8,7 +8,10 @@
 
 ---
 
-Aspiring **Front-End Web Developer** passionate about creating interactive, user-friendly, and dynamic web experiences. Skilled in crafting responsive designs and exploring modern web technologies. I also have a creative side, using DaVinci Resolve to create stunning edits and motion graphics.  
+Aspiring **AI and Machine Learning Developer** with a growing portfolio of projects in deep learning, computer vision, and natural language processing. I specialize in building intelligent systems using **Python, TensorFlow, Keras, and OpenCV** — including recent work on integrated pipelines for handwritten text recognition from images.
+
+Alongside my AI pursuits, I'm also passionate about **front-end web development**, creating responsive and interactive user experiences with modern tools like **React and Tailwind CSS**. I combine technical precision with creativity, using DaVinci Resolve and After Effects to bring motion graphics and visual content to life.
+  
 
 ---
 
