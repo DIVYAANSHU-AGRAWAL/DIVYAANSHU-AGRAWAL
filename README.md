@@ -14,30 +14,36 @@ Aspiring **Front-End Web Developer** passionate about creating interactive, user
 
 ### 🛠️ **Tech Stack**
 
-#### **Frontend**
+#### 🤖 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge&logo=seaborn&logoColor=white)
+
+#### 🖼️ Image Processing & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
+
+#### 🎨 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Machine Learning and Deep Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-#### **Image Processing**
-![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### **GUI Development**
+#### 🖥️ GUI Development
 ![Tkinter](https://img.shields.io/badge/Tkinter-5C3EE8?style=for-the-badge&logo=tkinter&logoColor=white)
 
-#### **Tools**
+#### 🛠️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🎬 Video Editing & Motion Graphics
 ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-FF2D20?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
