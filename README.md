@@ -8,14 +8,41 @@
 
 ---
 
-Aspiring **AI and Machine Learning Developer** with a growing portfolio of projects in deep learning, computer vision, and natural language processing. I specialize in building intelligent systems using **Python, TensorFlow, Keras, and OpenCV** — including recent work on integrated pipelines for handwritten text recognition from images.
+Aspiring Full Stack Web Developer with hands-on experience in building scalable, responsive web applications from scratch. I specialize in crafting robust backends using Node.js, Express.js, and MongoDB, with a focus on RESTful APIs, authentication (JWT), middleware, and real-time communication using Socket.IO.
 
-Alongside my AI pursuits, I'm also passionate about **front-end web development**, creating responsive and interactive user experiences with modern tools like **React and Tailwind CSS**. I combine technical precision with creativity, using DaVinci Resolve and After Effects to bring motion graphics and visual content to life.
+On the front end, I build sleek, interactive user interfaces using React.js and Tailwind CSS, following clean architecture principles and component-based design. I’ve worked with tools like React Router, Redux Toolkit, and modern JavaScript (ES6+) to deliver dynamic, single-page applications.
+
+My development workflow is enhanced with version control via Git/GitHub, efficient API testing using Postman, and secure credential management using .env configurations.
+
+In addition to full-stack development, I bring a creative edge to my projects with a strong interest in motion graphics and video editing, leveraging tools like DaVinci Resolve and After Effects to produce engaging visual content.
   
 
 ---
 
 ### 🛠️ **Tech Stack**
+
+#### 🎨 Frontend Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🖥️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)  
+![Dotenv](https://img.shields.io/badge/Dotenv-4B8BBE?style=for-the-badge&logo=dotenv&logoColor=white)
+
+#### 🛠️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🤖 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,30 +52,10 @@ Alongside my AI pursuits, I'm also passionate about **front-end web development*
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge&logo=seaborn&logoColor=white)
 
 #### 🖼️ Image Processing & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
-
-#### 🎨 Frontend Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🖥️ GUI Development
-![Tkinter](https://img.shields.io/badge/Tkinter-5C3EE8?style=for-the-badge&logo=tkinter&logoColor=white)
-
-#### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### 🎬 Video Editing & Motion Graphics
-![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-FF2D20?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
 
