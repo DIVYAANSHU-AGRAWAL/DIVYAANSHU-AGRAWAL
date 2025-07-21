@@ -8,13 +8,11 @@
 
 ---
 
-Aspiring Full Stack Web Developer with hands-on experience in building scalable, responsive web applications from scratch. I specialize in crafting robust backends using Node.js, Express.js, and MongoDB, with a focus on RESTful APIs, authentication (JWT), middleware, and real-time communication using Socket.IO.
+Aspiring Full Stack Web Developer with hands-on experience building responsive, scalable web applications from scratch. I specialize in backend development using Node.js, Express.js, and MongoDB, with a focus on RESTful APIs, JWT-based authentication, middleware, file uploads with Multer, and real-time communication using Socket.IO.
 
-On the front end, I build sleek, interactive user interfaces using React.js and Tailwind CSS, following clean architecture principles and component-based design. I’ve worked with tools like React Router, Redux Toolkit, and modern JavaScript (ES6+) to deliver dynamic, single-page applications.
+On the frontend, I develop clean, interactive user interfaces using React.js, React Router, React Hook Form, and Tailwind CSS, following modern ES6+ JavaScript standards and component-based architecture for building efficient single-page applications.
 
-My development workflow is enhanced with version control via Git/GitHub, efficient API testing using Postman, and secure credential management using .env configurations.
-
-In addition to full-stack development, I bring a creative edge to my projects with a strong interest in motion graphics and video editing, leveraging tools like DaVinci Resolve and After Effects to produce engaging visual content.
+My development workflow includes version control with Git/GitHub, API testing with Postman, secure environment configuration using .env, and effective package management through npm.
   
 
 ---
@@ -29,6 +27,7 @@ In addition to full-stack development, I bring a creative edge to my projects wi
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
@@ -42,7 +41,6 @@ In addition to full-stack development, I bring a creative edge to my projects wi
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-4B8BBE?style=for-the-badge&logo=dotenv&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logoColor=white)
 
