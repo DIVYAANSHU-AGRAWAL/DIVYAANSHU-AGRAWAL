@@ -73,20 +73,26 @@ My development workflow includes version control with Git/GitHub, API testing wi
 
 ### 🌟 **Projects**
 
-#### **Handwritten Word Recognition AI** ✍️🤖  
+#### **ByteCritic – AI-Powered Code Analyzer**  
 **Description:**  
-An integrated deep learning pipeline combining image and text features to recognize handwritten words from images. Uses a pretrained ResNet50 for image feature extraction and a Bidirectional LSTM for textual context modeling. Includes an image segmentation module to extract individual words from handwritten prescription images.  
-Built with **Python**, **TensorFlow**, **OpenCV**, and deep learning techniques.  
-The model trains on the IAM Handwriting Dataset and predicts text from segmented word images with high accuracy.  
-[Explore the repo here!](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
+A full-stack web application that reviews code across multiple languages using Google's Gemini AI model. Users can paste their code into the interface and receive intelligent feedback, suggestions, and error spotting. Built with **React**, **Node.js**, **Express**, and the **Gemini API**.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
 
-#### **WeatherWise** 🌦️
-**Description**: An Android app that retrieves real-time weather data such as temperature, humidity, and wind speed for any city. Built using **Java**, **Android Studio**, and the **OpenWeatherMap API**.  
-[Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
+#### **Handwritten Word Recognition AI**  
+**Description:**  
+An end-to-end deep learning system that extracts and recognizes handwritten words from prescription images. Combines **ResNet50** for visual features and **Bidirectional LSTM** for textual decoding. Built using **Python**, **TensorFlow**, and **OpenCV**, trained on the IAM Handwriting Dataset.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
 
-#### **PixCraft** 🖼️
-**Description**: A Python-based image manipulation tool built using **Pillow** and **Tkinter**. It allows users to apply various filters, adjust brightness, contrast, and crop images with a simple GUI interface.  
-[Check it out here!](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
+#### **WeatherWise**  
+**Description:**  
+An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
+
+#### **PixCraft – Image Editor**  
+**Description:**  
+A desktop GUI-based image manipulation tool built with **Python**, **Tkinter**, and **Pillow**. Allows users to apply filters, crop, and adjust image settings like brightness and contrast.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
+
 
 ---
 
