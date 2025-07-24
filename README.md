@@ -13,7 +13,30 @@ Aspiring Full Stack Web Developer with hands-on experience building responsive, 
 On the frontend, I develop clean, interactive user interfaces using React.js, React Router, React Hook Form, and Tailwind CSS, following modern ES6+ JavaScript standards and component-based architecture for building efficient single-page applications.
 
 My development workflow includes version control with Git/GitHub, API testing with Postman, secure environment configuration using .env, and effective package management through npm.
-  
+
+---
+
+### 🌟 **Projects**
+
+#### **ByteCritic – AI-Powered Code Analyzer**  
+**Description:**  
+A full-stack web application that reviews code across multiple languages using Google's Gemini AI model. Users can paste their code into the interface and receive intelligent feedback, suggestions, and error spotting. Built with **React**, **Node.js**, **Express**, and the **Gemini API**.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
+
+#### **Handwritten Word Recognition AI**  
+**Description:**  
+An end-to-end deep learning system that extracts and recognizes handwritten words from prescription images. Combines **ResNet50** for visual features and **Bidirectional LSTM** for textual decoding. Built using **Python**, **TensorFlow**, and **OpenCV**, trained on the IAM Handwriting Dataset.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
+
+#### **WeatherWise**  
+**Description:**  
+An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
+
+#### **PixCraft – Image Editor**  
+**Description:**  
+A desktop GUI-based image manipulation tool built with **Python**, **Tkinter**, and **Pillow**. Allows users to apply filters, crop, and adjust image settings like brightness and contrast.  
+[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
 
 ---
 
@@ -53,10 +76,11 @@ My development workflow includes version control with Git/GitHub, API testing wi
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### ☁️ Deployment & Hosting  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat) 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-#### 🤖 Artificial Intelligence & Machine Learning
+
+### 🤖 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -65,34 +89,9 @@ My development workflow includes version control with Git/GitHub, API testing wi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-#### 🖼️ Image Processing & Computer Vision
+### 🖼️ Image Processing & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-FFB13D?style=for-the-badge&logo=pillow&logoColor=white)
-
----
-
-### 🌟 **Projects**
-
-#### **ByteCritic – AI-Powered Code Analyzer**  
-**Description:**  
-A full-stack web application that reviews code across multiple languages using Google's Gemini AI model. Users can paste their code into the interface and receive intelligent feedback, suggestions, and error spotting. Built with **React**, **Node.js**, **Express**, and the **Gemini API**.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
-
-#### **Handwritten Word Recognition AI**  
-**Description:**  
-An end-to-end deep learning system that extracts and recognizes handwritten words from prescription images. Combines **ResNet50** for visual features and **Bidirectional LSTM** for textual decoding. Built using **Python**, **TensorFlow**, and **OpenCV**, trained on the IAM Handwriting Dataset.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
-
-#### **WeatherWise**  
-**Description:**  
-An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
-
-#### **PixCraft – Image Editor**  
-**Description:**  
-A desktop GUI-based image manipulation tool built with **Python**, **Tkinter**, and **Pillow**. Allows users to apply filters, crop, and adjust image settings like brightness and contrast.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
-
 
 ---
 
