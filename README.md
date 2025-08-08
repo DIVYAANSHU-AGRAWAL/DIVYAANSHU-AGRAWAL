@@ -11,27 +11,31 @@
 
 ### 🌟 **Projects**
 
-#### **ByteCritic – AI-Powered Code Analyzer**  
-**Description:**  
-A full-stack web application that reviews code across multiple languages using Google's Gemini AI model. Users can paste their code into the interface and receive intelligent feedback, suggestions, and error spotting. Built with **React**, **Node.js**, **Express**, and the **Gemini API**.  
-Deployed on ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat) <br>
-[Live Link](https://bytecritic.onrender.com/)  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
+### 🌟 Projects
 
-#### **Handwritten Word Recognition AI**  
-**Description:**  
-An end-to-end deep learning system that extracts and recognizes handwritten words from prescription images. Combines **ResNet50** for visual features and **Bidirectional LSTM** for textual decoding. Built using **Python**, **TensorFlow**, and **OpenCV**, trained on the IAM Handwriting Dataset.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Handwritten-Prescription-Text-Recognition-System-)
+#### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
+Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
+🔗 [Live Demo](https://chat-app-divyaanshu.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/BaatCheet-Real-Time-Chat-App)
+
+---
+
+#### 🍲 **SwaadSehat – Desi Nutrition Brand Website**  
+A scroll-animated brand site with multi-route navigation and motion effects using **GSAP**. Fully responsive, polished interactions, and deployed on Render.  
+🔗 [Live Demo](https://gsap-land.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/SwaadSehat-GSAP-Website)
+
+---
+
+#### 🚀 **ByteCritic – AI-Powered Code Reviewer**  
+An AI-based tool that gives human-like code reviews across multiple languages. Integrated **Gemini API** for analysis and **PrismJS** for syntax highlighting. Built with **Vite** for fast dev and production builds.  
+Deployed on ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat)  
+🔗 [Live Demo](https://bytecritic.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
+
+---
 
 #### **WeatherWise**  
 **Description:**  
 An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
 [🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
-
-#### **PixCraft – Image Editor**  
-**Description:**  
-A desktop GUI-based image manipulation tool built with **Python**, **Tkinter**, and **Pillow**. Allows users to apply filters, crop, and adjust image settings like brightness and contrast.  
-[🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Image-Manipulation-Project)
 
 ---
 
