@@ -14,7 +14,8 @@
 #### **ByteCritic – AI-Powered Code Analyzer**  
 **Description:**  
 A full-stack web application that reviews code across multiple languages using Google's Gemini AI model. Users can paste their code into the interface and receive intelligent feedback, suggestions, and error spotting. Built with **React**, **Node.js**, **Express**, and the **Gemini API**.  
-Deployed on ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat) [Live Link](https://bytecritic.onrender.com/)  
+Deployed on ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat) 
+[Live Link](https://bytecritic.onrender.com/)  
 [🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
 
 #### **Handwritten Word Recognition AI**  
