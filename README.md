@@ -11,8 +11,6 @@
 
 ### 🌟 **Projects**
 
-### 🌟 Projects
-
 #### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
 Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
 🔗 [Live Demo](https://chat-app-divyaanshu.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/BaatCheet-Real-Time-Chat-App)
