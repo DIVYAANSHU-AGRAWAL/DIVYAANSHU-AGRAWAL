@@ -2,17 +2,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Professional Animation" width="300" height="150">
-</div>
-
----
-
-Aspiring Full Stack Web Developer with hands-on experience building responsive, scalable web applications from scratch. I specialize in backend development using Node.js, Express.js, and MongoDB, with a focus on RESTful APIs, JWT-based authentication, middleware, file uploads with Multer, and real-time communication using Socket.IO.
-
-On the frontend, I develop clean, interactive user interfaces using React.js, React Router, React Hook Form, and Tailwind CSS, following modern ES6+ JavaScript standards and component-based architecture for building efficient single-page applications.
-
-My development workflow includes version control with Git/GitHub, API testing with Postman, secure environment configuration using .env, and effective package management through npm.
+- 💻 Aspiring **Full Stack Web Developer** building responsive, scalable apps  
+- 🛠 **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT Auth, Multer, Socket.IO  
+- 🎨 **Frontend:** React.js, React Router, React Hook Form, Tailwind CSS  
+- 🔧 **Tools:** Git/GitHub, Postman, .env config, npm package management  
 
 ---
 
