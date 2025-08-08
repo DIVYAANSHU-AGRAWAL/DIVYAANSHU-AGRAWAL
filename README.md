@@ -25,7 +25,6 @@ A scroll-animated brand site with multi-route navigation and motion effects usin
 
 #### 🚀 **ByteCritic – AI-Powered Code Reviewer**  
 An AI-based tool that gives human-like code reviews across multiple languages. Integrated **Gemini API** for analysis and **PrismJS** for syntax highlighting. Built with **Vite** for fast dev and production builds.  
-Deployed on ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat)  
 🔗 [Live Demo](https://bytecritic.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
 
 ---
