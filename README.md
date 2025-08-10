@@ -76,7 +76,6 @@ An Android app that fetches real-time weather information including temperature,
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAANSHU-AGRAWAL&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
