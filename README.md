@@ -75,6 +75,15 @@ An Android app that fetches real-time weather information including temperature,
 ![Render](https://img.shields.io/badge/-Render-354EA9?logo=render&logoColor=white&style=flat) 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+![Divyaanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYAANSHU-AGRAWAL&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAANSHU-AGRAWAL&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DIVYAANSHU-AGRAWAL&theme=radical&hide_border=false)
+
+
 ### 🔗 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyaanshu-agrawal/)
