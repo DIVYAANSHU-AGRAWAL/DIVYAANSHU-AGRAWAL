@@ -2,10 +2,8 @@
 
 ---
 
--  Aspiring **Full Stack Web Developer** building responsive, scalable apps  
--  **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT Auth, Multer, Socket.IO  
--  **Frontend:** React.js, React Router, React Hook Form, Tailwind CSS  
--  **Tools:** Git/GitHub, Postman, .env config, npm package management  
+Aspiring **Full Stack Web Developer** building responsive, scalable apps  
+
 
 ---
 
