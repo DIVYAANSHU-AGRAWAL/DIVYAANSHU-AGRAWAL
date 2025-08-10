@@ -2,12 +2,11 @@
 
 ---
 
-Aspiring **Full Stack Web Developer** building responsive, scalable apps  
-
+Aspiring **Full Stack Web Developer** building responsive and scalable applications.
 
 ---
 
-### 🌟 **Projects**
+### ⚡ **Projects**
 
 #### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
 Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
@@ -27,7 +26,7 @@ An AI-based tool that gives human-like code reviews across multiple languages. I
 
 ---
 
-#### **WeatherWise**  
+#### ☀️ **WeatherWise**  
 **Description:**  
 An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
 [🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
