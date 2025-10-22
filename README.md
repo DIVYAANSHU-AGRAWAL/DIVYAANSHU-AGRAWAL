@@ -4,7 +4,7 @@ Aspiring **Full Stack Web Developer** building responsive and scalable applicati
 
 ---
 
-### ⚡ **Projects**
+## ⚡ **PROJECTS**
 
 #### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
 Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
