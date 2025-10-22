@@ -8,19 +8,19 @@ Aspiring **Full Stack Web Developer** building responsive and scalable applicati
 
 ### ⚡ **Projects**
 
-#### **BaatCheet – Real-Time Full Stack Chat Application**  
+#### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
 Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
 🔗 [Live Demo](https://chat-app-divyaanshu.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/BaatCheet-Real-Time-Chat-App)
 
 ---
 
-#### **SwaadSehat – Desi Nutrition Brand Website**  
+#### 🥗 **SwaadSehat – Desi Nutrition Brand Website**  
 A scroll-animated brand site with multi-route navigation and motion effects using **GSAP**. Fully responsive, polished interactions, and deployed on Render.  
 🔗 [Live Demo](https://gsap-land.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/SwaadSehat-GSAP-Website)
 
 ---
 
-#### BharatBuy – E-commerce Web App
+#### 🛒 BharatBuy – E-commerce Web App
 Built a full-stack e-commerce web application with modern technologies for smooth performance and scalability.  
 
 - **Next.js:** Implemented seamless server-side rendering (SSR) and dynamic routing for optimized performance.  
@@ -30,13 +30,13 @@ Built a full-stack e-commerce web application with modern technologies for smoot
 
 🔗 [Live Demo](https://next-ecommerce-orcin-one.vercel.app/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/Next_Ecommerce)
 
-#### **ByteCritic – AI-Powered Code Reviewer**  
+#### 💻 **ByteCritic – AI-Powered Code Reviewer**  
 An AI-based tool that gives human-like code reviews across multiple languages. Integrated **Gemini API** for analysis and **PrismJS** for syntax highlighting. Built with **Vite** for fast dev and production builds.  
 🔗 [Live Demo](https://bytecritic.onrender.com/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/ByteCritic-AI-Powered-Code-Analyzer)
 
 ---
 
-#### **WeatherWise**  
+#### 🌤️ **WeatherWise**  
 **Description:**  
 An Android app that fetches real-time weather information including temperature, humidity, and wind speed using the **OpenWeatherMap API**. Built using **Java** and **Android Studio**.  
 [🔗 GitHub Repository](https://github.com/DIVYAANSHU-AGRAWAL/Weather_App)
@@ -45,7 +45,7 @@ An Android app that fetches real-time weather information including temperature,
 
 ### 🛠️ **Tech Stack**
 
-### 🧩 Frontend Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ An Android app that fetches real-time weather information including temperature,
 
 ---
 
-### ⚙️ Backend Development
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -74,7 +74,7 @@ An Android app that fetches real-time weather information including temperature,
 
 ---
 
-### 🧰 Tools & Package Managers
+### Tools & Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,7 +84,7 @@ An Android app that fetches real-time weather information including temperature,
 
 ---
 
-### ☁️ Deployment & Hosting
+### Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-354EA9?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
