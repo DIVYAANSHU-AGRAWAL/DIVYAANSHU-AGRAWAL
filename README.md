@@ -27,7 +27,7 @@ Built a full-stack e-commerce web application with modern technologies for smoot
 - **Stripe Integration:** Enabled secure product cart and checkout with real-time payment processing.  
 - **ShadCN UI:** Designed a clean, modern, and accessible interface using pre-built UI components.  
 - **Global Cart State:** Managed and persisted cart data across page reloads with Zustand.
-<br>
+
 🔗 [Live Demo](https://next-ecommerce-orcin-one.vercel.app/) | [GitHub](https://github.com/DIVYAANSHU-AGRAWAL/Next_Ecommerce)
 
 #### **ByteCritic – AI-Powered Code Reviewer**  
