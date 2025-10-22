@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm **Divyaanshu Agrawal**  
 
----
-
 Aspiring **Full Stack Web Developer** building responsive and scalable applications.
 
 ---
