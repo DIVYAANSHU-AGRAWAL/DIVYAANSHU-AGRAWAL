@@ -1,10 +1,4 @@
-# Hi there! 👋 I'm **Divyaanshu Agrawal**  
-
-Aspiring **Full Stack Web Developer** building responsive and scalable applications.
-
----
-
-## ⚡ **PROJECTS**
+# ⚡ **PROJECTS**
 
 #### 💬 **BaatCheet – Real-Time Full Stack Chat Application**  
 Built a real-time chat app with **JWT + cookies authentication**, **Zustand** for global state, live online status, and **Cloudinary** uploads. Messaging powered by **Socket.IO**. UI made with **Tailwind CSS** + **DaisyUI** — responsive and snappy.  
